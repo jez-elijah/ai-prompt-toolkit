@@ -21,6 +21,12 @@ Each template has the same parts: a role, the task, the rules (including what th
 2. Fill the placeholders and run the prompt in the AI tool you are evaluating.
 3. Record the result, what went wrong, and what you changed in the template.
 
+## Limitations
+
+- Template tests were run on one model (Claude Sonnet 5.5) and graded with that model's help, then reviewed by me, so grading may share the model's blind spots.
+- Ten tests are enough to find obvious failures, not to measure reliability.
+- The usage policy is a sample for learning and has not been reviewed by legal or compliance staff.
+
 ## Note
 
 The policy is a sample written for learning purposes. It is not legal advice and is not any company's real policy.
